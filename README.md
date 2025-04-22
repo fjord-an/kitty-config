@@ -2,4 +2,5 @@
 my kitty terminal configuration
 
 # Dependancies/install guide
-1: Install picom for transparent terminal background
+: Install picom for transparent terminal background
+: Clone the repo into ~/.config/kitty/
